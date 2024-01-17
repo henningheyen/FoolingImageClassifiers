@@ -23,4 +23,4 @@ The repository consists of the notebook (ipynb and HTML), an in depth report and
 
 # Getting started
 
-To run this notebook please use [Google Colab](https://colab.google/) as all libraries (especially TF Keras) are preinstalled there. Just upload the images and change the path if necessary. 
+To run this notebook please use [Google Colab](https://colab.google/) as all libraries (especially TF Keras) are preinstalled there. Just upload the `images` folder and the `imagenet_class_index.json` file and change the path if necessary. 
