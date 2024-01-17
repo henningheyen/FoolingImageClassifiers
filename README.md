@@ -18,8 +18,9 @@ input images are **out of distribution**.
 9. **Discussion within the context of Responsible AI**:
      - The last section aims to point out some of the most important challenges related to AI robustness and security and then outline how the AI community aims to tackle them.
 
+# Repository
 
-The repository consists of the notebook (ipynb and HTML), an in depth report and the images used in this notebook
+The repository consists of the notebook, an in depth report, the `imagenet_class_index.json` file for section 4 and the `images` used in this notebook. Please note that all outputs in the `.ipynb` file had to be cleared due to size constraints which is why I uploaded a `.pdf` version of the notebook which contains all outputs. 
 
 # Getting started
 
